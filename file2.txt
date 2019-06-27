@@ -1,4 +1,5 @@
 line from feature/file2 branch
 add another line
 
+add line from feature
 add line from dev
